@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "cs459_2020/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
